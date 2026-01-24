@@ -1,5 +1,6 @@
 """
 https://codeforces.com/gym/664897/problem/N
+Date: 24-01-2026
 """
 
 def solve():
